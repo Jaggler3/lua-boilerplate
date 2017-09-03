@@ -1,0 +1,1 @@
+print("Running Lua version \"" .. _VERSION .. "\"");
